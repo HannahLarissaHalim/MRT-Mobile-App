@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class BookingScreen extends StatelessWidget {
-  const BookingScreen({super.key});
+class TicketScreen extends StatelessWidget {
+  const TicketScreen({super.key});
 
   Widget build(BuildContext context) {
     return Scaffold(
